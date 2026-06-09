@@ -127,3 +127,19 @@ footer {
   .hero h1 { font-size: 40px; }
   nav { flex-direction: column; }
 }
+
+.trust {
+  background: #111;
+  margin: 60px auto;
+  padding: 40px;
+  border-radius: 20px;
+  max-width: 800px;
+  text-align: center;
+  border: 1px solid #222;
+}
+
+.trust p {
+  color: #ccc;
+  margin: 10px 0;
+  font-size: 18px;
+}
